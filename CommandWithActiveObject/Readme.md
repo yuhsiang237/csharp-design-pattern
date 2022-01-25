@@ -1,4 +1,4 @@
-# Command與Active Object模式
+# Command模式與Active Object模式
 可用來處理多功能與多任務。  
 使用Command設計模式與Active Object設計模式進行多工(多執行緒)指令。  
 即run-to-completion任務(RTC)，表示不會中途暫停(block)住，直到運行到完成。  
