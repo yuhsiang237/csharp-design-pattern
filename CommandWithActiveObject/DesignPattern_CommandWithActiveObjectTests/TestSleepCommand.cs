@@ -17,7 +17,7 @@ namespace DesignPattern_CommandWithActiveObjectTests
         }
 
         /// <summary>
-        /// ´ú¸Õ©µ¿ðSleepCommand
+        /// æ¸¬è©¦SleepCommand
         /// </summary>
         [Test]
         public void TestSleep()
