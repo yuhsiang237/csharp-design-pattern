@@ -1,4 +1,4 @@
-# Template Method模式
+# Template Method 模板方法 
 可以用來抽出核心演算法，利用繼承的方式。
 
 ### 好處
